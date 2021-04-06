@@ -59,3 +59,36 @@
 // val = Math.floor(Math.random() * 6 + 1);
 // console.log(val);
 
+// let firstName = 'pollax';
+// let lastName = 'john';
+
+// const age = 23;
+
+// val = firstName + " " + lastName;
+// console.log(val);
+
+// val = 'brad';
+// val += 'john';
+
+// console.log(val);
+// function foo(a = 10, b = 7, c) {
+//     return a + b + c;
+// }
+
+// console.log(foo(10));
+
+// let color = {
+//     one = 'red',
+//     num = 1,
+//     two = 'black',
+//     num1 = 2,
+
+// }
+
+// console.log(color());
+
+
+// let color = ['red', 'green', 'yellow'];
+// console.log(color);
+// console.log(color[0]);
+// console.log(color.length);
